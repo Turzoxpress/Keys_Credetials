@@ -1,4 +1,5 @@
      App/Game  ------------------  Key  ---------------------- Password
 ______________________________________________________________________________________________
 
-1. Chess Master 3D           adreekey.keystore               adree**1
+1. Chess Master 3D           adreekey.keystore               ad**1
+2. Chess Master 2D                  ''                         ''
