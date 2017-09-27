@@ -1,5 +1,7 @@
      App/Game  ------------------  Key  ---------------------- Password
 ______________________________________________________________________________________________
 
-1. Chess Master 3D           adreekey.keystore               ad**1
-2. Chess Master 2D                  ''                         ''
+1. Chess Master 3D           adreekey.keystore                  ad**1
+link : https://play.google.com/store/apps/details?id=com.turzo.chessmaster3d
+2. Chess Master 2D           adreekey.keystore                   ad**1
+link : https://play.google.com/store/apps/details?id=com.turzo.chessgrandmaster2d
