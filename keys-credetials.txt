@@ -1,9 +1,22 @@
      App/Game  ------------------  Key  ---------------------- Password
 ______________________________________________________________________________________________
 
-1. Chess Master 3D           adreekey.keystore                  ad**1
+1. Chess Master 3D           adreekey.keystore                 adreex**1
 link : https://play.google.com/store/apps/details?id=com.turzo.chessmaster3d
-2. Chess Master 2D           adreekey.keystore                   ad**1
+
+2. Chess Master 2D           adreekey.keystore                   adreex**1
 link : https://play.google.com/store/apps/details?id=com.turzo.chessgrandmaster2d
-3. Chess Master 3D Classic    adreekey.keystore                   ad**1
+
+3. Chess Master 3D Classic    adreekey.keystore                   adreex**1
 link : https://play.google.com/store/apps/details?id=com.turzo.chessmaster3dclassic
+
+4. Traffic Case Checker BD    twobugs                   twobugsx*****1
+link : https://play.google.com/store/apps/details?id=com.turzo.etrafficcasecheckerbd
+
+5. 360 VR Photo Player   adreekey.keystore                   adreex**1
+link : https://play.google.com/store/apps/details?id=com.turzo.vr360photoplayer
+
+
+6. 360 VR Cardboard Video Player    adreekey.keystore        adreex**1
+link : https://play.google.com/store/apps/details?id=com.turzo.vr360videoplayer
+
