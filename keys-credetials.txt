@@ -20,6 +20,9 @@ link : https://play.google.com/store/apps/details?id=com.turzo.vr360photoplayer
 6. 360 VR Cardboard Video Player    adreekey.keystore        adreex**1
 link : https://play.google.com/store/apps/details?id=com.turzo.vr360videoplayer
 
-7. 3GPS Route Navigation            adreekey.keystore        adreex**1
+7. GPS Route Navigation            adreekey.keystore        adreex**1
 link : https://play.google.com/store/apps/details?id=com.turzo.gpsnavigator
+
+8. Skull Live Wallpaper            imran_key.keystore        imranx***1
+link : https://play.google.com/store/apps/details?id=com.turzo.skullwallpaper
 
