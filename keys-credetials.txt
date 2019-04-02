@@ -26,3 +26,7 @@ link : https://play.google.com/store/apps/details?id=com.turzo.gpsnavigator
 8. Skull Live Wallpaper            imran_key.keystore        imranx***1
 link : https://play.google.com/store/apps/details?id=com.turzo.skullwallpaper
 
+
+9. Soulmate            adreekey.keystore        adreex**1
+link : https://play.google.com/store/apps/details?id=com.lone.soulmatedating
+
